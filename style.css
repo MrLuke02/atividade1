@@ -1,0 +1,19 @@
+h1{
+    background-color: blue;
+    color: white;
+    margin-left: 400px;
+    margin-right: 400px;
+    text-align: center;
+}
+
+h2{
+    background-color: blue;
+    color: white;
+    font-size: 30;
+}
+h3{
+    background-color: black;
+    color: white;
+    margin-right: 1000px;
+    text-align: center;
+}
